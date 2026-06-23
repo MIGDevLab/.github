@@ -10,7 +10,7 @@ We are a team of experienced developers creating web solutions across the entire
 ## 📞 Contact Us
 - **Email**: info@mig-studio.com
 - **Telegram**: [@migstudio](https://t.me/migstudio)
-- **Website**: [mig.best](https://mig.best)
+- **Website**: [mig.best](https://migdev.net)
 ---
 
 ## Українська 🇺🇦
